@@ -49,9 +49,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=koppisetti-sravani&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koppisetti-sravani&layout=compact&theme=radical&langs_count=6&hide=javascript,html,css&custom_title=Most%20Used%20Languages:%20Java%2C%20C%2C%20Python" width="48%" />
-</p>
-
+  
 ---
 
 ### 📫 Connect With Me
