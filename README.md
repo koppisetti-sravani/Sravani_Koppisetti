@@ -1,57 +1,44 @@
 # Sravani_Koppisetti
 
-<h1 align="center">Hi there 👋, I'm Sravani Koppisetti</h1>
-
-<p align="center">
-  <b>
-    <i>
-      Web Developer • UI Developer • Front-End Developer • Arduino Enthusiast • Blog Writer • Video Editor
-    </i>
-  </b>
-</p>
+<h1 align="center">Hi 👋, I'm Sravani Koppisetti</h1>
+<h3 align="center">Web Developer • UI Developer • Front-End Developer • Passionate in Arduino • Blog Writer • Video Editor</h3>
 
 ---
 
-### 👩‍💻 About Me
+### 🌱 About Me
 
-- 🌱 I’m currently building full-stack apps using **React.js, Node.js, Express, MongoDB**
-- 🧠 I love working with **machine learning tools to solve real-world problems**, REST APIs, and responsive UIs  
-- 💻 Always learning & improving in **Java, UI Design, and DSA**
-- ✨ I create clean, user-focused web applications
+👩‍🎓 B.Tech in ECE @ Shri Vishnu Engineering College for Women  
+📍 From: Bhimavaram, Andhra Pradesh  
+💻 I’m currently building full-stack apps using **React.js, Node.js, Express, MongoDB**  
+🧠 I love working with **machine learning tools** to solve real-world problems, REST APIs, and responsive UIs  
+🚀 Always learning & improving in **Java, UI & DSA**  
+✨ I create clean, user-focused web applications  
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 💻 Frontend
-![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-
-
-#### 🛠️ Backend & Database
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-
-#### 🔧 Tools & Misc
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
-![Canva](https://img.shields.io/badge/-Canva-black?style=flat-square&logo=canva)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
 ---
 
-### 📌 Featured Projects
+### 🌟 Featured Projects
 
 - 🔥 [Expense Tracker App](https://github.com/koppisetti-sravani/expense-tracker)  
   `React.js • Node.js • MongoDB • JWT • Chart.js`  
-  A full-stack app to manage expenses with login, CRUD, charts, and filters.
+  A full-stack app to manage income and expenses with login, charts, and category filters.
 
-*(Add more projects with descriptions and links)*
+*(Add more projects with GitHub links and short descriptions)*
 
 ---
 
@@ -64,11 +51,18 @@
 
 ---
 
-### 📫 Let’s Connect
+### 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/sravani-koppisetti-6a860026b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- [Portfolio Website](https://preview--sravani-portfolio-16.lovable.app/)  
+- [LinkedIn](https://www.linkedin.com/in/sravani-koppisetti-6a860026b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Portfolio Website](https://preview--sravani-portfolio-16.lovable.app/)
 - ✉️ koppisettisravani550@gmail.com
 
 ---
+
+### ✨ Fun Fact
+
+_"I love creating aesthetic blogs, clean interfaces, and coding beautiful user journeys!"_
+
+---
+
 
