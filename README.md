@@ -28,8 +28,7 @@
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+
 
 #### 🛠️ Backend & Database
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
@@ -67,9 +66,9 @@
 
 ### 📫 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- [Portfolio Website](https://yourwebsite.com)  
-- ✉️ koppisettisravani@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/sravani-koppisetti-6a860026b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- [Portfolio Website](https://preview--sravani-portfolio-16.lovable.app/)  
+- ✉️ koppisettisravani550@gmail.com
 
 ---
 
